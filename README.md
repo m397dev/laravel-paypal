@@ -22,7 +22,7 @@
 <a name="introduction"></a>
 ## Installation
 
-    composer require srmklive/paypal:~3.0
+    composer require srmklive/paypal:dev-v3.0.x
 
 <a name="usage"></a>
 ## Usage
