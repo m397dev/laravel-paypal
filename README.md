@@ -20,15 +20,9 @@
 > * Symfony plugin. 
     
 <a name="introduction"></a>
-## Documentation
+## Installation
 
-The documentation for the package can be viewed by clicking the following link:
-
-[https://laravel-paypal.readthedocs.io/en/latest/](https://laravel-paypal.readthedocs.io/en/latest/)
-
-The old documentation can be found at the following link:
-
-[https://srmklive.github.io/laravel-paypal/docs.html](https://srmklive.github.io/laravel-paypal/docs.html)
+    composer require srmklive/paypal:~3.0
 
 <a name="usage"></a>
 ## Usage
