@@ -22,7 +22,19 @@
 <a name="introduction"></a>
 ## Installation
 
-    composer require srmklive/paypal:dev-v3.0.x
+```
+# composer.json
+"repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/m397dev/laravel-paypal",
+            "no-api": true
+        }
+],
+"require": {
+        "srmklive/paypal": "v3.0.x-dev"
+},
+```
 
 <a name="usage"></a>
 ## Usage
